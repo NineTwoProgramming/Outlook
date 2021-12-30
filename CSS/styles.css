@@ -1,0 +1,74 @@
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Parisienne', cursive;
+  font-size: 5.625rem;
+  /* 16px = 100% = 1em ........rem(root em) ignores parent size changes.*/
+  margin: 50px auto 0 auto;
+  color: #596E79;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #456268;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #596E79;
+}
+
+.top-wrap{
+}
+
+.top-container {
+  background-color: #F0ECE3;
+  padding-top: 100px;
+  position: relative;
+}
+
+.mountain-break{
+  background-color: #F0ECE3;
+
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bot-cloud {
+  position: absolute;
+  left: 500px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.title {
+  margin-bottom: 0;
+}
+
+.skill-pics {
+  height: 200px;
+}
+
+.footer-link {
+  color: #22577E;
+}
+
+.btn {
+  color: #22577E;
+}
